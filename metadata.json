@@ -1,0 +1,6 @@
+{
+  "name": "Guía Clínica Interactiva: Complicaciones en Terapia Intravenosa",
+  "description": "Presentación interactiva y didáctica sobre la Escala de Maddox, Infiltración, Extravasación, Hematoma y Flebitis con enfoque clínico humanizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
